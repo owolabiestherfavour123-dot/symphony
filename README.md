@@ -1,4 +1,5 @@
 # Symphony
+YOU ARE GOOD
 
 Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage
 work instead of supervising coding agents.
